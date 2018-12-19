@@ -1,0 +1,3 @@
+rootProject.name = 'tepl5'
+
+include ':app'
